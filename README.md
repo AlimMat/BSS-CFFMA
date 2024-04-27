@@ -1,3 +1,3 @@
 # BSS-CFFMA
 
-![image](noisy(1)_out(1).png)
+![image](img/noisy(1)_out(1).png)
