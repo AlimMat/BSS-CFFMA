@@ -1,7 +1,7 @@
-# BSS-CFFMA
+# noisy speech
 
 ![img1](img/noisy.png) 
 
-# noisy speech
+# enhance speech
 
 ![img2](img/enhance.png)
