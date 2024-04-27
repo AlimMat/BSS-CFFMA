@@ -1,4 +1,6 @@
 # BSS-CFFMA
 
 ![img1](img/noisy.png) 
-enhancement| ![img2](img/enhance.png)
+noisy speech
+
+![img2](img/enhance.png)
